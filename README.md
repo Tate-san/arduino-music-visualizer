@@ -1,11 +1,12 @@
+
 # Arduino audio visualizer
-This is a little project that's still WIP.
+
   ## Libraries used:
- - ArduinoFFT
- - U8G2lib
+ - [ArduinoFFT](https://github.com/kosme/arduinoFFT)
+ - [U8G2lib](https://github.com/olikraus/u8g2)
  
 ## TODO
- - [x] Basic code
+- [x] Basic code
  - [ ] Creating schematics
  - [ ] Adding AMP between audio source and arduino
  - [ ] Better audio sensitivity (maybe automatic sensitivity range)
