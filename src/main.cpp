@@ -17,6 +17,7 @@ arduinoFFT FFT = arduinoFFT();
 #define MIC_PIN A4
 #define BRIGHTNESS_PIN A3
 // SAMPLING
+// TODO - IMPLEMENTING CHECK FOR MAX WIDTH
 #define SAMPLES 64             // Must be a power of 2
 #define SAMPLING_FREQUENCY 3000 // Hz, must be less than 10000 due to ADC
 const int sample_fit = SAMPLES/w;
