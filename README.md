@@ -17,4 +17,7 @@
  - [ ] Adding AMP between audio source and arduino
  - [ ] Better audio sensitivity (maybe automatic sensitivity range)
  - [ ] Maybe switching between inputs **AUX/MIC**
- - [ ] Better modularity
+ - [ ] Better 
+ 
+## Schematics
+![Alt text](pics/schem.png "Schematics")
