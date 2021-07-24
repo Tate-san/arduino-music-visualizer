@@ -13,8 +13,8 @@
 
 ## TODO
 - [x] Basic code
- - [ ] Creating schematics
- - [ ] Adding AMP between audio source and arduino
+ - [x] Creating schematics
+ - [x] Adding AMP between audio source and arduino
  - [ ] Better audio sensitivity (maybe automatic sensitivity range)
  - [ ] Maybe switching between inputs **AUX/MIC**
  - [ ] Better 
